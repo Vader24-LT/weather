@@ -13,8 +13,11 @@ A simple and intuitive weather application that provides real-time weather updat
 
 ## Installation
 1.git clone https://github.com/Vader24-LT/weather.git to the project directory 
+
 2.cd weatherInstall dependencies: 
+
 3.npm install Start the development server: 
+
 4.npm startOpen your browser and visit http://localhost:3000.
 
 ## Usage
