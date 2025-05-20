@@ -27,6 +27,7 @@ Getting Started
 2.Search for a CityEnter a city name in the search bar and press Enter or click the search button.The app will display the current weather and a 5-day forecast.
 
 Video Link: https://app.screencastify.com/v2/watch/prDQ5pa56MDQ3VVWPOqG
+
 Video Link: https://drive.google.com/file/d/1qvku3iBoTK7q06g3Z0nFU9bkqiYezpXC/view?usp=sharing
 
 ## License
